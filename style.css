@@ -18,3 +18,23 @@ header{
 nav{
     background-color: red;
 }
+
+a{
+    color: rgb(255, 193, 7);
+    text-decoration: none;
+}
+
+a:hover, a:active, a:visited{
+    color: rgb(255, 155, 20);
+}
+
+.Mia_Wallace{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    }
+
+p, ul, ol , li{
+    text-align: justify;
+}
+
+
